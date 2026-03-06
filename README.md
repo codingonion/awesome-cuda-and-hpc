@@ -6,6 +6,7 @@
 ## Contents
 - [Awesome-CUDA-and-HPC](#awesome-cuda-and-hpc)
   - [Official Version](#official-version)
+  - [Debug & Diagnostics](#debug-and-diagnostics)
   - [Awesome List](#awesome-list)
   - [Learning Resources](#learning-resources)
     - [CUDA Learning](#cuda-learning)
@@ -92,6 +93,9 @@
   - [PTX](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html) : PTX, a low-level parallel thread execution virtual machine and instruction set architecture (ISA).
 
 
+## Debug & Diagnostics
+- [Env-Doctor](https://github.com/mitulgarg/env-doctor) - Diagnoses CUDA mismatches between driver/toolkit/ML wheels; generates safe pip installs, debugs flash-attention (extension library checks), provides cudnn compatibility checks, model VRAM checks.
+
 
 ## Awesome List
 
@@ -104,7 +108,6 @@
   - [mikeroyal/CUDA-Guide](https://github.com/mikeroyal/CUDA-Guide) <img src="https://img.shields.io/github/stars/mikeroyal/CUDA-Guide?style=social"/> : A guide covering CUDA including the applications and tools that will make you a better and more efficient CUDA developer.
 
   - [rkinas/triton-resources](https://github.com/rkinas/triton-resources) <img src="https://img.shields.io/github/stars/rkinas/triton-resources?style=social"/> : A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
-
 
 
 
@@ -1381,4 +1384,5 @@
     - [2023-12-21，[英伟达内推] 英*达面试过程全面剖析](https://mp.weixin.qq.com/s/GoZKlLfdoGN9ngbe_PzG7w)
     - [2024-04-16，一份英伟达的offer，一年能到手多少钱](https://mp.weixin.qq.com/s/dZAG-AXbZkGi9CJQZMhCNA)
   - [知乎「Tim在路上​」](https://www.zhihu.com/people/lao-zhang-cao-mei-yuan)
+
     - [2024-01-18，国内大厂GPU CUDA高频面试问题汇总（含部分答案）](https://zhuanlan.zhihu.com/p/678602674)
