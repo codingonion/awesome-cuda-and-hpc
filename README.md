@@ -452,6 +452,8 @@
         - [te42kyfo/gpu-benches](https://github.com/te42kyfo/gpu-benches) <img src="https://img.shields.io/github/stars/te42kyfo/gpu-benches?style=social"/> : collection of benchmarks to measure basic GPU capabilities.
 
 
+        - [Ingero](https://github.com/ingero-io/ingero) <img src="https://img.shields.io/github/stars/ingero-io/ingero?style=social"/> : eBPF-based CUDA causal observability agent. Traces CUDA Runtime and Driver APIs via uprobes and host kernel events to build causal chains explaining GPU latency.
+
 
     - #### Scientific Computing Framework
       ##### 科学计算框架
