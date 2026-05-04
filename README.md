@@ -248,7 +248,7 @@
 
     - [zoheth/yan](https://github.com/zoheth/yan) <img src="https://img.shields.io/github/stars/zoheth/yan?style=social"/> : Yan (炎) is a high-performance CUDA operator library designed for learning purposes while emphasizing clean code and maximum performance.
 
-
+    - [Learn AI Visually](https://learnaivisually.com) : Interactive browser simulations of the GPU/CUDA execution model — warps, SMs, memory hierarchy, roofline model, tiling, tensor cores, FlashAttention, Triton — alongside an LLM internals + serving track. No GPU required, runs entirely in the browser.
 
 
   - ### TensorRT Learning
