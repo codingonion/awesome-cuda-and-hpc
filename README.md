@@ -451,6 +451,8 @@
 
         - [te42kyfo/gpu-benches](https://github.com/te42kyfo/gpu-benches) <img src="https://img.shields.io/github/stars/te42kyfo/gpu-benches?style=social"/> : collection of benchmarks to measure basic GPU capabilities.
 
+        - [nuemaan/kernelmeter](https://github.com/nuemaan/kernelmeter) <img src="https://img.shields.io/github/stars/nuemaan/kernelmeter?style=social"/> : Query every CUDA device attribute without profiling a kernel, benchmark kernels against the hardware roofline with correctness checks and NVML telemetry, and compare GPUs from spec-sheet-tested data.
+
 
 
     - #### Scientific Computing Framework
